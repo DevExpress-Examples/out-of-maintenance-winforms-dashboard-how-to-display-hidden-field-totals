@@ -1,4 +1,4 @@
-# Dashboard for WinForms - How to Calculate and Display Totals for the Hidden Measure
+# Dashboard for WinForms - How to calculate and display totals for the hidden measure
 
 This example demonstrates how to calculate a total value (distinct count) for a hidden measure and display it in the dashboard item's caption.
 
