@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CalculateHIddenTotalsExample/Form1.cs)
+<!-- default file list end -->
+
 # Dashboard for WinForms - How to calculate and display totals for the hidden measure
 
 This example demonstrates how to calculate a total value (distinct count) for a hidden measure and display it in the dashboard item's caption.
